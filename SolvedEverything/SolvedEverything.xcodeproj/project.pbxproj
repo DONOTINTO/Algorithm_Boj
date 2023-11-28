@@ -27,6 +27,7 @@
 		ACE836442B147E8C00245D57 /* BOJ-1157.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1157.swift"; sourceTree = "<group>"; };
 		ACE8364D2B148F2500245D57 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ACE836512B15CA3700245D57 /* BOJ-2562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2562.swift"; sourceTree = "<group>"; };
+		ACE836522B15D54900245D57 /* BOJ-10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10951.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 			children = (
 				ACE836442B147E8C00245D57 /* BOJ-1157.swift */,
 				ACE836512B15CA3700245D57 /* BOJ-2562.swift */,
+				ACE836522B15D54900245D57 /* BOJ-10951.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
