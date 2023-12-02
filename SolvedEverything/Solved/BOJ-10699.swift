@@ -13,6 +13,7 @@
 import Foundation
 
 var formatter = DateFormatter()
-formatter.dateFormat = "yyyy-MM-dd"
+formatter.locale = Locale(identifier: "ko_KR")
+formatter.timeZone = TimeZone(abbreviation: "KST")
+formatter.dateFormat = "yyyy-MM-dd-HH"
 print(formatter.string(from: Date()))
-
