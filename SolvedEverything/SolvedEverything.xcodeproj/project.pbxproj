@@ -30,6 +30,7 @@
 		AC1FF2782B1B7CD600A4812E /* BOJ-10699.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10699.swift"; sourceTree = "<group>"; };
 		AC3B5A6C2B1B91600099355D /* BOJ-2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2292.swift"; sourceTree = "<group>"; };
 		AC3B5A6D2B1CC5B70099355D /* BOJ-10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10828.swift"; sourceTree = "<group>"; };
+		AC3B5A6E2B1CEB320099355D /* BOJ-11866.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-11866.swift"; sourceTree = "<group>"; };
 		AC5A4B1A2B1709D80005338B /* BOJ-10250.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10250.swift"; sourceTree = "<group>"; };
 		AC5A4B1B2B1714090005338B /* BOJ-2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2920.swift"; sourceTree = "<group>"; };
 		ACE836412B147E8C00245D57 /* SolvedEverything */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SolvedEverything; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -82,6 +83,7 @@
 				AC1FF2782B1B7CD600A4812E /* BOJ-10699.swift */,
 				AC3B5A6C2B1B91600099355D /* BOJ-2292.swift */,
 				AC3B5A6D2B1CC5B70099355D /* BOJ-10828.swift */,
+				AC3B5A6E2B1CEB320099355D /* BOJ-11866.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
