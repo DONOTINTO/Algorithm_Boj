@@ -8,3 +8,6 @@
 
 ## 큐 스택(Queue)
 - BOJ-2164
+
+## 딕셔너리(Dictionary)
+- BOJ-10816
