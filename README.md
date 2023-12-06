@@ -10,5 +10,8 @@
 - BOJ-2164
 - BOJ-10845
 
+## 데크 스택(Deque)
+- BOJ-10866
+
 ## 딕셔너리(Dictionary)
 - BOJ-10816
