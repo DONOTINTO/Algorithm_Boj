@@ -5,6 +5,7 @@
 
 ## 이진탐색(Binary Search)
 - BOJ-1920
+- BOJ-1654
 
 ## 큐 스택(Queue)
 - BOJ-2164
