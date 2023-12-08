@@ -24,6 +24,7 @@
 
 /* Begin PBXFileReference section */
 		AC0A450F2B23320700A91FD2 /* BOJ-1654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1654.swift"; sourceTree = "<group>"; };
+		AC0A45102B23585D00A91FD2 /* BOJ-18111.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-18111.swift"; sourceTree = "<group>"; };
 		AC1FF2742B1726A700A4812E /* BOJ-10809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10809.swift"; sourceTree = "<group>"; };
 		AC1FF2752B1858AB00A4812E /* BOJ-10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10871.swift"; sourceTree = "<group>"; };
 		AC1FF2762B186D7200A4812E /* BOJ-1259.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1259.swift"; sourceTree = "<group>"; };
@@ -132,6 +133,7 @@
 				AC8D62EC2B21B9F20016E4EE /* BOJ-1966.swift */,
 				ACB7172F2B21CCEB00FE49ED /* BOJ-2108.swift */,
 				AC0A450F2B23320700A91FD2 /* BOJ-1654.swift */,
+				AC0A45102B23585D00A91FD2 /* BOJ-18111.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
