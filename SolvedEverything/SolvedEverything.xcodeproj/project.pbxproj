@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		AC0A450F2B23320700A91FD2 /* BOJ-1654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1654.swift"; sourceTree = "<group>"; };
 		AC0A45102B23585D00A91FD2 /* BOJ-18111.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-18111.swift"; sourceTree = "<group>"; };
+		AC0A45112B247BB800A91FD2 /* BinarySearchTree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BinarySearchTree.swift; sourceTree = "<group>"; };
 		AC1FF2742B1726A700A4812E /* BOJ-10809.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10809.swift"; sourceTree = "<group>"; };
 		AC1FF2752B1858AB00A4812E /* BOJ-10871.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10871.swift"; sourceTree = "<group>"; };
 		AC1FF2762B186D7200A4812E /* BOJ-1259.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1259.swift"; sourceTree = "<group>"; };
@@ -78,6 +79,7 @@
 				AC709CAB2B1EDB0F00D8DDFC /* Queue.swift */,
 				AC8D62E52B2046400016E4EE /* Deque.swift */,
 				AC709CAD2B1EDE0300D8DDFC /* BinarySearch.swift */,
+				AC0A45112B247BB800A91FD2 /* BinarySearchTree.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
