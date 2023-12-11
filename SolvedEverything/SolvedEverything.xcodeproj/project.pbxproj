@@ -33,6 +33,7 @@
 		AC1FF2762B186D7200A4812E /* BOJ-1259.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1259.swift"; sourceTree = "<group>"; };
 		AC1FF2772B1A1F5000A4812E /* BOJ-10773.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10773.swift"; sourceTree = "<group>"; };
 		AC1FF2782B1B7CD600A4812E /* BOJ-10699.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10699.swift"; sourceTree = "<group>"; };
+		AC21313A2B27169B0051A148 /* BOJ-18511.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-18511.swift"; sourceTree = "<group>"; };
 		AC3B5A6C2B1B91600099355D /* BOJ-2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2292.swift"; sourceTree = "<group>"; };
 		AC3B5A6D2B1CC5B70099355D /* BOJ-10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10828.swift"; sourceTree = "<group>"; };
 		AC3B5A6E2B1CEB320099355D /* BOJ-11866.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-11866.swift"; sourceTree = "<group>"; };
@@ -75,6 +76,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AC2131392B2716140051A148 /* Unsolved_SomeoneAnswer */ = {
+			isa = PBXGroup;
+			children = (
+				AC21313A2B27169B0051A148 /* BOJ-18511.swift */,
+			);
+			path = Unsolved_SomeoneAnswer;
+			sourceTree = "<group>";
+		};
 		AC709CAC2B1EDB1700D8DDFC /* Algorithm */ = {
 			isa = PBXGroup;
 			children = (
@@ -92,6 +101,7 @@
 			children = (
 				ACE8364D2B148F2500245D57 /* main.swift */,
 				ACE836502B14903100245D57 /* Solved */,
+				AC2131392B2716140051A148 /* Unsolved_SomeoneAnswer */,
 				AC709CAC2B1EDB1700D8DDFC /* Algorithm */,
 				ACE836422B147E8C00245D57 /* Products */,
 			);
