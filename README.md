@@ -19,3 +19,4 @@
 
 ## 재귀함수(Recursive Function)
 - BOJ-17478
+- BOJ-2630
