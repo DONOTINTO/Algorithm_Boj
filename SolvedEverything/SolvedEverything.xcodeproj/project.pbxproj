@@ -36,6 +36,7 @@
 		AC200BCD2B29F62B0085FC49 /* BOJ-1003.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1003.swift"; sourceTree = "<group>"; };
 		AC21313A2B27169B0051A148 /* BOJ-18511.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-18511.swift"; sourceTree = "<group>"; };
 		AC21313B2B285B360051A148 /* BOJ-2630.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2630.swift"; sourceTree = "<group>"; };
+		AC301E3F2B3A81A100FDE27E /* BOJ-1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1012.swift"; sourceTree = "<group>"; };
 		AC3B5A6C2B1B91600099355D /* BOJ-2292.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2292.swift"; sourceTree = "<group>"; };
 		AC3B5A6D2B1CC5B70099355D /* BOJ-10828.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10828.swift"; sourceTree = "<group>"; };
 		AC3B5A6E2B1CEB320099355D /* BOJ-11866.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-11866.swift"; sourceTree = "<group>"; };
@@ -154,6 +155,7 @@
 				AC0A45122B25E18C00A91FD2 /* BOJ-17478.swift */,
 				AC21313B2B285B360051A148 /* BOJ-2630.swift */,
 				AC200BCD2B29F62B0085FC49 /* BOJ-1003.swift */,
+				AC301E3F2B3A81A100FDE27E /* BOJ-1012.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
