@@ -66,6 +66,7 @@
 		ACE8364D2B148F2500245D57 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		ACE836512B15CA3700245D57 /* BOJ-2562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2562.swift"; sourceTree = "<group>"; };
 		ACE836522B15D54900245D57 /* BOJ-10951.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10951.swift"; sourceTree = "<group>"; };
+		ACF6869B2B3BC6D00015575A /* BOJ-1260.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-1260.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +157,7 @@
 				AC21313B2B285B360051A148 /* BOJ-2630.swift */,
 				AC200BCD2B29F62B0085FC49 /* BOJ-1003.swift */,
 				AC301E3F2B3A81A100FDE27E /* BOJ-1012.swift */,
+				ACF6869B2B3BC6D00015575A /* BOJ-1260.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
