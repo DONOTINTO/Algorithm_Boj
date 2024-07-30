@@ -13,7 +13,7 @@
 
 import Foundation
 
-func solution(_ ingredient:[Int]) -> Int {
+func solution133502(_ ingredient:[Int]) -> Int {
     
     let burger = [1, 2, 3, 1]
     var stack = [Int]()
