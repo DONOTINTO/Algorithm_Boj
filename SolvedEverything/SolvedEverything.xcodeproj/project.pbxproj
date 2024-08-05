@@ -48,6 +48,7 @@
 		AC4CF76D2B2025FC00A45294 /* BOJ-10845.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10845.swift"; sourceTree = "<group>"; };
 		AC579B7A2C59027300D1C9FC /* Programmers-133502.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers-133502.swift"; sourceTree = "<group>"; };
 		AC579B7C2C5916DE00D1C9FC /* Programmers-258712.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Programmers-258712.swift"; sourceTree = "<group>"; };
+		AC579BA42C60DB5500D1C9FC /* BOJ-2667.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2667.swift"; sourceTree = "<group>"; };
 		AC5A4B1A2B1709D80005338B /* BOJ-10250.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-10250.swift"; sourceTree = "<group>"; };
 		AC5A4B1B2B1714090005338B /* BOJ-2920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BOJ-2920.swift"; sourceTree = "<group>"; };
 		AC5A7AC62BE31EA600A13991 /* Sorting.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sorting.swift; sourceTree = "<group>"; };
@@ -190,6 +191,7 @@
 				AC301E3F2B3A81A100FDE27E /* BOJ-1012.swift */,
 				ACF6869B2B3BC6D00015575A /* BOJ-1260.swift */,
 				AC9FCFD92BBE44A500395FC2 /* BOJ-3273.swift */,
+				AC579BA42C60DB5500D1C9FC /* BOJ-2667.swift */,
 			);
 			path = Solved;
 			sourceTree = "<group>";
