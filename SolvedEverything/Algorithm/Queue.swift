@@ -15,7 +15,7 @@
     시간복잡도를 가지고 있어 훨씬 효율적임
 */
 
-class Queue<T> {
+fileprivate class Queue<T> {
     private var inbox: [T]
     private var outbox: [T] = []
     
